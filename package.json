@@ -19,7 +19,8 @@
     "install": "^0.13.0",
     "knex": "0.95.11",
     "node-pre-gyp": "^0.17.0",
-    "sqlite3": "^5.0.2"
+    "sqlite3": "^5.0.2",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
