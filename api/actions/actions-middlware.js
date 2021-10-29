@@ -1,3 +1,3 @@
-// const Actions = require("./actions-model");
+const Actions = require("./actions-model");
 
-// module.exports = {};
+module.exports = {};
